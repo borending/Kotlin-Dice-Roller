@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Dice Roller</string>
+    <string name="app_name">骰子玩家</string>
+    <string name="roll_label">擲！</string>
+    <string name="count_label">+1</string>
 </resources>
